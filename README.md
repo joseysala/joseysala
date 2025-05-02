@@ -72,6 +72,6 @@ Como tutor de **Formacion en Centros de Trabajo (FCTs)** uno de mis objetivos es
 
 ### 🌐 Encuéntrame
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/josé-sala-gutiérrez-0051161b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joseysala)
 
 ---
