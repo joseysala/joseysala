@@ -46,7 +46,8 @@ Como tutor de **Formacion en Centros de Trabajo (FCTs)** uno de mis objetivos es
   <a href="https://www.java.com/es/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
          alt="Logo de Java" 
-         width="40">
+         width="40"
+         style="border-radius: 10px;>
   </a>
   <a href="https://www.mysql.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
