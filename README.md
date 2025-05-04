@@ -31,10 +31,10 @@ Como tutor de **Formacion en Centros de Trabajo (FCTs)** uno de mis objetivos es
 
 <p align="left">
   <a href="https://www.youracclaim.com/badges/eb4f8766-9d63-4e23-93d9-abca33d8bf49" target="_blank">
-    <img src="https://raw.githubusercontent.com/joseysala/joseysala/main/assets/pmp.png" width="40" />
+    <img src="https://raw.githubusercontent.com/joseysala/joseysala/main/assets/pmp.png" width="40"/>
   </a>
   <a href="https://www.scrumstudy.com/certification/scrum-master-certification" target="_blank">
-     <img src="https://raw.githubusercontent.com/joseysala/joseysala/main/assets/scm.png" width="40" />
+     <img src="https://raw.githubusercontent.com/joseysala/joseysala/main/assets/scm.png" width="40"/>
   </a>
 </p>
 
@@ -46,8 +46,7 @@ Como tutor de **Formacion en Centros de Trabajo (FCTs)** uno de mis objetivos es
   <a href="https://www.java.com/es/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
          alt="Logo de Java" 
-         width="40"
-         style="border-radius: 10px;>
+         width="40">
   </a>
   <a href="https://www.mysql.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
@@ -73,22 +72,17 @@ Como tutor de **Formacion en Centros de Trabajo (FCTs)** uno de mis objetivos es
          width="40">
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
   <a href="https://aws.amazon.com/es/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" 
          alt="Logo de Amazon AWS" 
          width="40">
   </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <a href="https://github.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
          alt="Logo de github" 
-         width="40">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-         alt="Logo de MS Visual Studio Code" 
          width="40">
   </a>
   <a href="https://code.visualstudio.com/">
@@ -122,7 +116,9 @@ Como tutor de **Formacion en Centros de Trabajo (FCTs)** uno de mis objetivos es
          width="40">
   </a>
 </p>
+
 ---
+
 
 ### 🎯 Competiciones
 
