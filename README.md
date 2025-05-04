@@ -63,71 +63,58 @@ Como tutor de **Formacion en Centros de Trabajo (FCTs)** uno de mis objetivos es
          alt="Logo de Docker" 
          width="40">
   </a>
-  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
          alt="Logo de Linux" 
          width="40">
-  
   <a href="https://hibernate.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" 
          alt="Logo de Hibernate" 
          width="40">
   </a>
-   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
-  
   <a href="https://aws.amazon.com/es/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" 
          alt="Logo de Amazon AWS" 
          width="40">
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-
   <a href="https://github.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
          alt="Logo de github" 
          width="40">
   </a>
-
   <a href="https://code.visualstudio.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
          alt="Logo de MS Visual Studio Code" 
          width="40">
   </a>
-
   <a href="https://code.visualstudio.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
          alt="Logo de MS Visual Studio Code" 
          width="40">
   </a>
-  
-
   <a href="https://eclipseide.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" 
          alt="Logo de Eclipse IDE" 
          width="40">
   </a>
-
   <a href="https://www.oracle.com/es/database/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" 
          alt="Logo de Oracle" 
          width="40">
   </a>
-
   <a href="https://www.redis.io/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" 
          alt="Logo de Redis" 
          width="40">
   </a>
-
   <a href="https://www.https://www.squid-cache.org/">
     <img src="https://raw.githubusercontent.com/joseysala/joseysala/main/assets/squid.png" 
          alt="Logo de Squid Proxy" 
          width="40">
   </a>
-
 </p>
 
 ---
