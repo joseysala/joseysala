@@ -59,7 +59,6 @@ Como tutor de **Formacion en Centros de Trabajo (FCTs)** uno de mis objetivos es
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
 </p>
 
 ---
@@ -73,6 +72,6 @@ Como tutor de **Formacion en Centros de Trabajo (FCTs)** uno de mis objetivos es
 
 ### 🌐 Encuéntrame
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/josé-sala-gutiérrez-0051161b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joseysala)
 
 ---
