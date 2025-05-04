@@ -111,13 +111,17 @@ Como tutor de **Formacion en Centros de Trabajo (FCTs)** uno de mis objetivos es
          alt="Logo de Redis" 
          width="40">
   </a>
-  <a href="https://www.https://www.squid-cache.org/">
+  <a href="https://www.squid-cache.org/">
     <img src="https://raw.githubusercontent.com/joseysala/joseysala/main/assets/squid.png" 
          alt="Logo de Squid Proxy" 
          width="40">
   </a>
+    <a href="https://openvpn.net/">
+    <img src="https://raw.githubusercontent.com/joseysala/joseysala/main/assets/openvpn.png" 
+         alt="Logo de openVPN" 
+         width="40">
+  </a>
 </p>
-
 ---
 
 ### 🎯 Competiciones
