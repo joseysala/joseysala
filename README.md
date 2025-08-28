@@ -22,13 +22,13 @@ Como tutor de **Formacion en Centros de Trabajo (FCTs)** uno de mis objetivos es
 - 🎓 Formador acreditado en [AWS Academy](https://aws.amazon.com/training/awsacademy/)
 - 🎓 Instructor acreditado en [Cisco Networking Academy](https://www.netacad.com/es/)
 - ⚙️ Familiarizado con frameworks como Spring Boot e Hibernate.
-- 🐧 Fan del software libre, los entornos Linux y la automatización.
+- 🐧 Fan del software libre, los entornos Linux y la ciberseguridad.
 - 🌱 Actualmente profundizando en DevOps, computación en la nube con AWS y arquitecturas cloud con Docker y Kubernetes.
 - 📖 Siempre aprendiendo... y enseñando.
 
 ---
 
-### 🏅 Certificaciones Profesionales
+### 🏅 Certificaciones y cursos Profesionales
 
 <p align="left">
   <a href="https://www.youracclaim.com/badges/eb4f8766-9d63-4e23-93d9-abca33d8bf49" target="_blank">
@@ -75,8 +75,6 @@ Como tutor de **Formacion en Centros de Trabajo (FCTs)** uno de mis objetivos es
          alt="Logo de Hibernate" 
          width="40">
   </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
   <a href="https://aws.amazon.com/es/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" 
@@ -99,11 +97,6 @@ Como tutor de **Formacion en Centros de Trabajo (FCTs)** uno de mis objetivos es
          alt="Logo de Eclipse IDE" 
          width="40">
   </a>
-  <a href="https://www.oracle.com/es/database/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" 
-         alt="Logo de Oracle" 
-         width="40">
-  </a>
   <a href="https://www.redis.io/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" 
          alt="Logo de Redis" 
@@ -118,6 +111,16 @@ Como tutor de **Formacion en Centros de Trabajo (FCTs)** uno de mis objetivos es
     <img src="https://raw.githubusercontent.com/joseysala/joseysala/main/assets/openvpn.png" 
          alt="Logo de openVPN" 
          width="40">
+  </a>
+  <a href="https://nginx.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"  
+        alt="Logo de nginx"
+        width="40">
+  </a>
+  <a href="https://https://maven.apache.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg"
+        alt="Logo de maven"
+        width="40">
   </a>
 </p>
 
