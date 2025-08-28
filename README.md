@@ -20,6 +20,7 @@ Como tutor de **Formacion en Centros de Trabajo (FCTs)** uno de mis objetivos es
 - 💼 He trabajado con Shell scripting (linux), Java, C, C++, PHP, SQL ...
 - 📜 Dispongo de certificaciones profesionales tales como Project Management Professional (PMP), Scrum Master (SMC)
 - 🎓 Formador acreditado en [AWS Academy](https://aws.amazon.com/training/awsacademy/)
+- 🎓 Instructor acreditado en [Cisco Networking Academy](https://www.netacad.com/es/)
 - ⚙️ Familiarizado con frameworks como Spring Boot e Hibernate.
 - 🐧 Fan del software libre, los entornos Linux y la automatización.
 - 🌱 Actualmente profundizando en DevOps, computación en la nube con AWS y arquitecturas cloud con Docker y Kubernetes.
@@ -35,6 +36,9 @@ Como tutor de **Formacion en Centros de Trabajo (FCTs)** uno de mis objetivos es
   </a>
   <a href="https://www.scrumstudy.com/certification/scrum-master-certification" target="_blank">
      <img src="https://raw.githubusercontent.com/joseysala/joseysala/main/assets/scm.png" width="40"/>
+  </a>
+  <a href="https://www.credly.com/badges/7f08f081-6ec7-4522-8f7c-cc31e0d21a9a/public_url" target="_blank">
+     <img src="https://raw.githubusercontent.com/joseysala/joseysala/main/assets/cyberops-associate.png" width="40"/>
   </a>
 </p>
 
