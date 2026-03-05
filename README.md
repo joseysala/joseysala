@@ -15,7 +15,7 @@
 ### 📚 Sobre mí
 
 Soy profesor de **Formación Profesional** especializado en **Desarrollo de Aplicaciones Multiplataforma y Administración de Sistemas Informáticos en Red**, que trata de llevar al aula mi experiencia profesional de más de 13 años como senior consultant y solution arquitect en diversas empresas mutinacionales para adaptar los contenidos de los módulos profesional lo más posible a las necesidades reales de las empresas.
-Como tutor de **Formacion en Centros de Trabajo (FCTs)** uno de mis objetivos es siempre identificar las carencias formativas o nuevas propuestas de las empresas para buscarles cabida en los módulos profesionales en cursos posteriores de forma que los alumnos y alumnas de sucesivas promociones salgan en las mejores condiciones posibles al mercado laboral. 
+Como tutor de la **Fase de Formacion en Empresa (FFE)**, uno de mis objetivos es siempre identificar las carencias formativas o nuevas propuestas de las empresas para buscarles cabida en los módulos profesionales de cursos posteriores de forma que los alumnos y alumnas de sucesivas promociones salgan en las mejores condiciones posibles al mercado laboral.
 
 - 💼 He trabajado con Shell scripting (linux), Java, C, C++, PHP, SQL ...
 - 📜 Dispongo de certificaciones profesionales tales como Project Management Professional (PMP), Scrum Master (SMC)
@@ -126,11 +126,9 @@ Como tutor de **Formacion en Centros de Trabajo (FCTs)** uno de mis objetivos es
 
 ---
 
-
 ### 🎯 Competiciones
 
 <img src="https://raw.githubusercontent.com/joseysala/joseysala/main/assets/madridskills_logo.png" width="40" alt="MadridSkills" />
-
 
 ---
 
