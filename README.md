@@ -20,7 +20,7 @@ Como tutor de la **Fase de Formacion en Empresa (FFE)**, uno de mis objetivos es
 - 📜 Dispongo de certificaciones profesionales tales como Project Management Professional (PMP), Scrum Master (SMC), CyberOps Associate (CBROPS)
 - 🎓 Instructor acreditado en [AWS Academy](https://aws.amazon.com/training/awsacademy/), en [Cisco Networking Academy](https://www.netacad.com/es/) y en [Red Hat Academy](https://www.redhat.com/en/services/training/red-hat-academy).
 
-- 🌱 Actualmente profundizando en DevOps con Github Actions, computación en la nube con AWS, arquitecturas cloud con Docker, infrastructuras en la nube con Terraform y administración y automatización remota con Ansible.
+- 🌱 Actualmente profundizando en DevOps con Github Actions, computación en la nube con AWS, arquitecturas cloud con Docker y Podman, infrastructuras en la nube con Terraform y administración y automatización remota con Ansible.
 
 ---
 
