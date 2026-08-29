@@ -14,13 +14,13 @@
 
 ### 📚 Sobre mí
 
-Soy profesor de **Formación Profesional** especializado en **Desarrollo de Aplicaciones Multiplataforma y Administración de Sistemas Informáticos en Red**, que trata de llevar al aula su experiencia profesional de más de 13 años como senior consultant y solution arquitect en diversas empresas mutinacionales para adaptar los contenidos de los módulos profesional lo más posible a las necesidades reales de las empresas.
+Soy profesor de **Formación Profesional** especializado en **Desarrollo de Aplicaciones Multiplataforma y Administración de Sistemas Informáticos en Red**, que trata de llevar al aula su experiencia profesional de más de 13 años como senior consultant y solution arquitect en diversas empresas mutinacionales para adaptar los contenidos de los módulos profesionales lo más posible a las necesidades reales de las empresas.
 Como tutor de la **Fase de Formacion en Empresa (FFE)**, uno de mis objetivos es siempre identificar las carencias formativas o nuevas propuestas de las empresas para buscarles cabida en los módulos profesionales de cursos posteriores, de forma que los alumnos y alumnas de sucesivas promociones salgan en las mejores condiciones posibles al mercado laboral.
 
 - 📜 Dispongo de certificaciones profesionales tales como Project Management Professional (PMP), Scrum Master (SMC), CyberOps Associate (CBROPS)
 - 🎓 Instructor acreditado en [AWS Academy](https://aws.amazon.com/training/awsacademy/), en [Cisco Networking Academy](https://www.netacad.com/es/) y en [Red Hat Academy](https://www.redhat.com/en/services/training/red-hat-academy).
 
-- 🌱 Actualmente profundizando en DevOps, computación en la nube con AWS,  arquitecturas cloud con Docker y Kubernetes.
+- 🌱 Actualmente profundizando en DevOps con Github Actions, computación en la nube con AWS, arquitecturas cloud con Docker, infrastructuras en la nube con Terraform y administración y automatización remota con Ansible.
 
 ---
 
@@ -130,7 +130,12 @@ Como tutor de la **Fase de Formacion en Empresa (FFE)**, uno de mis objetivos es
   </a>
   <a href="https://ngrok.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ngrok/ngrok-original.svg" 
-         alt="Logo de Ngrok" 
+         alt="Logo de Ngrok"
+         width="40">
+  </a>
+    <a href="https://docs.ansible.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg"
+         alt="Logo de Ansible"
          width="40">
   </a>
 </p>
